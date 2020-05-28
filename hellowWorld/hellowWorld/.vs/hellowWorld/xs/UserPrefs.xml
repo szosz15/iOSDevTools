@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8842956A-B2F9-43B8-B7E0-3756A15F67D0}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="hellowWorld.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="hellowWorld.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="hellowWorld.iOS/Entitlements.plist" />
+      <File FileName="hellowWorld.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hellowWorld" expanded="True" selected="True">
+            <Node name="hellowWorld.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hellowWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E8A01D0D-C708-46B7-9C01-6101B76A337E" />
+</Properties>
